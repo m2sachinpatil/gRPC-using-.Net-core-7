@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "XudgupXYqYc+z2Cn6IbkVA/0a1iUQ9fR+RjfnNJHMTM=",
+  "Source": "gRPC_Client",
+  "BasePath": "_content/gRPC_Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\POC\\gRPC_Service\\gRPC_Service\\gRPC_Service.csproj",
+      "Version": 2,
+      "Source": "gRPC_Service",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

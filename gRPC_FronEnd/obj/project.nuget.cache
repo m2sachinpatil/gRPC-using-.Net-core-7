@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AED6kS8uY7BGnOv2M6+UDSfCMAw/cqfdTMksBLjr1XB+ge30Ghe7sjrrhlVJz3DE1+0NJa6HjP8agpSlP/m3GA==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\gRPC_Service\\gRPC_FronEnd\\gRPC_FronEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sachin.Patil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

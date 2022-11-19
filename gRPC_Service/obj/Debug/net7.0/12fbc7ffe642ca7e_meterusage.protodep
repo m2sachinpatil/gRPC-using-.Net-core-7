@@ -1,0 +1,3 @@
+obj\Debug\net7.0\Protos/Meterusage.cs \
+obj\Debug\net7.0\Protos/MeterusageGrpc.cs: C:/Users/Sachin.Patil/.nuget/packages/grpc.tools/2.50.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/meterusage.proto

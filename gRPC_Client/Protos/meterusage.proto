@@ -1,0 +1,26 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+
+option csharp_namespace = "gRPC_Service";
+
+
+package meterusage;
+
+service MeterUsageService {
+
+rpc GetMeterData(Request) returns (stream MeterUsageDataModel) {}
+ 
+}
+
+
+message Request{
+string filters=1;
+
+}
+
+
+message MeterUsageDataModel {
+  string Time = 1;
+  float MeterUsage = 2;  
+}

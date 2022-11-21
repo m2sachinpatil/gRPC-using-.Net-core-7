@@ -15,12 +15,11 @@ A brief description of what this project does and who it's for
 
 # Achievement 
 
-    1. Performance Improvement in .NET 7.
-    2. gRPC JSON Transcoding.
-    3. Create a gRPC service in .NET 7.
-    4. Consuming a gRPC Service Using Postman.
-    5. Using Server reflection and Postman
-    6. Add Swagger Specification.
+    1. Create a gRPC service in .NET 7
+    2. gRPC JSON Transcoding. -API Gateway provides protocol translation for your gRPC services on Cloud Run allowing clients to use HTTP/JSON to communicate with a gRPC service through the API Gateway.
+    3. Consuming a gRPC Service Using Postman.
+    4. Using Server reflection and Postman
+    5. Add Swagger Specification.
 
 
 # INPUT
@@ -35,10 +34,10 @@ https://github.com/m2sachinpatil/gRPC-using-.Net-core-7/blob/main/gRPC_Service/I
 
 
 # Future Scope
-- Global cash mechanism
-- Load balancer to scale gRPC
+- gRPC client caches connection
+- gRPC Load Balancing
 - introduce API gateway as BFF for multiple microservices
-- Event-sourcing architecture 
+- Event sourcing using gRPC streams as Kafka replacement
 
 Welcome with pull request. 
 

@@ -28,9 +28,16 @@ https://github.com/m2sachinpatil/gRPC-using-.Net-core-7/blob/main/gRPC_Service/I
 
 
 # OUTPUT
-<img width="1546" alt="Screen Shot 2022-11-19 at 1 58 16 PM" src="https://user-images.githubusercontent.com/51775632/202869432-f8e86786-8277-4048-9542-e33a01098fad.png">
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/51775632/202869534-ab41cfea-ce87-4c60-9863-a4e5a01a9a0d.gif)
+- gRPC server using postman 
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/51775632/203187074-7a1387d4-1e1f-41c1-a16e-3bb758e571ea.gif)
+
+- gRPC Client using swagger and Fornt end using HTTP call to client.  
+
+<img width="1784" alt="image" src="https://user-images.githubusercontent.com/51775632/203185510-a65ae825-36fa-47cf-b30a-1073a02b8d53.png">
+
+
 
 
 # Future Scope
